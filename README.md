@@ -2,7 +2,7 @@
 
 A new Flutter project.
 
-## Exemplo deste código construído para WEB
+## Example of this code built for WEB
 
 https://github.com/Felipebros/Flutter_startup_namer
 
